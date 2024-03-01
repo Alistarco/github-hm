@@ -9,6 +9,9 @@ int resta(int x, int y){
 int multiplicacion(int x,int y){
     return x*y;
 }
+float división(int x,int y){
+    return x/y;
+}
 
 int main(){
 
